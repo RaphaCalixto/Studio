@@ -1,4 +1,4 @@
-<h1>Landing Page Studio</h1>
+<h1>Landing Page Studio </h1>
 <p>
 <img src="https://i.imgur.com/rdWcPJm.png">
 <a href="https://raphacalixto.github.io/Studio/">Clique Aqui!</a> 
